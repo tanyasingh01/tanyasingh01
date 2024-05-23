@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanyasingh01
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning c#
 - 📫 How to reach me ...
 
 <!---
